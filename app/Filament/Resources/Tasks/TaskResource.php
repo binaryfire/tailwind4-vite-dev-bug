@@ -41,7 +41,7 @@ class TaskResource extends Resource
     public static function getRelations(): array
     {
         return [
-            SubtasksRelationManager::class,
+            //
         ];
     }
 
